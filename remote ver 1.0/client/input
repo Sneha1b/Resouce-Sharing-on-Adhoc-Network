@@ -1,0 +1,6 @@
+files
+fib.cpp
+g++ ./files/fib.cpp
+ll
+who
+q
